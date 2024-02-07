@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+.group {
+  padding: 1rem;
+  border: solid 0.5px gainsboro;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.message {
+  padding: 0.5rem;
+  border: solid 0.5px gainsboro;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  background-color: #f0f8ff;
+}
