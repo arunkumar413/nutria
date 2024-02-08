@@ -3,3 +3,4 @@
 pgp-key.*
 /apt-repo/**
 *.deb
+node_modules
